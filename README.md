@@ -15,7 +15,3 @@ Welcome to the Wellcare project repository! This is a React-based website aimed 
 - Responsive UI design for seamless user experience across devices.
 - Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
 
-## Contributing
-
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
-
